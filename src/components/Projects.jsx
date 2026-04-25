@@ -20,14 +20,14 @@ const projects = [
     demoLink: "https://profile-card-seven-pi.vercel.app/",
   },
   {
-    title: "CreditW iseLoanSystem",
-    description: "More projects will be added soon",
-    tags: [],
-    color1: "#1a0c2e",
-    color2: "#0f172a",
-    codeLink: "https://github.com/aakashsatyamjha/CreditWiseLoanSystem",
-    demoLink: "https://creditwiseloansystem-fsnwgs6oy8lq2gtp7mfcxs.streamlit.app/",
-  },
+  title: "CreditWiseLoanSystem",
+  description: "ML-based loan approval prediction system",
+  tags: ["ML Models", "Streamlit"],
+  color1: "#1a0c2e",
+  color2: "#0f172a",
+  codeLink: "https://github.com/aakashsatyamjha/CreditWiseLoanSystem",
+  demoLink: "https://creditwiseloansystem-fsnwgs6oy8lq2gtp7mfcxs.streamlit.app/",
+}
 ];
 
 const Projects = () => {
