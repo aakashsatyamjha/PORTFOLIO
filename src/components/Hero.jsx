@@ -4,7 +4,7 @@ const cvBase64 = "data:application/pdf;base64,JVBERi0xLjUKJb/3ov4KMyAwIG9iago8PC
 
 const handleDownloadCV = () => {
   const link = document.createElement("a");
-  link.href = cvBase64;
+  link.href = "/cv.pdf";  // file in public folder
   link.download = "Aakash_Satyam_Jha_CV.pdf";
   document.body.appendChild(link);
   link.click();
