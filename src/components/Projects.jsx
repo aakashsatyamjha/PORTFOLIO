@@ -20,7 +20,7 @@ const projects = [
     demoLink: "https://profile-card-seven-pi.vercel.app/",
   },
   {
-  title: "CreditWiseLoanSystem",
+  title: "CreditWise-LoanSystem",
   description: "ML-based loan approval prediction system",
   tags: ["ML Models", "Streamlit"],
   color1: "#1a0c2e",
